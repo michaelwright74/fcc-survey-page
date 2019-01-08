@@ -1,0 +1,33 @@
+body {
+  background-color: #cb3737;
+  color: #fafafa;
+  font-family: 'Raleway', sans-serif;
+  padding: 3%;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+}
+
+p {
+  padding-bottom: 2%;
+  text-align: center;
+  font-weight: 700;
+}
+
+.form-container {
+  background-color: #ee6f57;
+  width: 75%;
+  margin: 3% auto;
+  padding: 3% 10%;
+  border-radius: 6px;
+}
+
+#dropdown {
+  width: 65%;
+}
+
+#submit {
+  background-color: #cb3737;
+}
